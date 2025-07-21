@@ -128,7 +128,7 @@ For questions, bugs, or suggestions, please:
    
 ## Acknowledgments
    - Thanks to the xAI community for inspiration and tools.
-   - Special thanks to the developers of <span style="color:red">pandas</span>, <span style="color:red">numpy</span>, <span style="color:red">jdatetime</span>, <span style="color:red">jalali_pandas</span> and <span style="color:red">prettytable</span> for their powerful libraries.
+   - Special thanks to the developers of `pandas`, `numpy`, `jdatetime`, `jalali_pandas` and `prettytable` for their powerful libraries.
    - Gratitude to all contributors who will enhance this project in the future.
 
    
